@@ -1,0 +1,10 @@
+[Volume Id]
+DistributionGUID={2DE85581-8FF0-4D78-B705-8B5990E26857}
+DistPackageGUID={D8B123D7-1597-4DA6-9B2B-E20C5D082E52}
+DistributionVersion=1.0.0
+DistributionType=MDF
+DistributionLanguage=9
+Volume=1
+TotalNumberOfVolumesInDistribution=1
+ExePath=voice_recognizer_install.exe
+UpdateInfoFile=supportfiles\updateInfo.xml
